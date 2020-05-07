@@ -4,6 +4,8 @@ Before running the project you have to install the **requests** library using th
 
 **pip install requests**
 
+![pip install requests](https://github.com/onkarkhokhar/Resulta_Python_challenge/blob/master/Capture2.PNG)
+
 To run the program please enter the following command
 
 **python resulta.py**
