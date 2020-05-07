@@ -12,7 +12,8 @@ def getdetails(startdate,enddate):
     return page_content,page_content2
 
 startdate=input("Please enter start date in YYYY-MM-DD format:")
-enddate=input("Please enter end date in YYYY-MM-DD format:")
+print("Date range must a maximum of 7 days for sports other than MMA, Boxing and AutoRacing and a maximum of 1 month for MMA, Boxing and AutoRacing.")
+enddate=input("Please enter end date within 7 days of startdate in YYYY-MM-DD format:")
 # startdate = "2020-01-12"
 # enddate = "2020-01-19"
 
