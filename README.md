@@ -1,8 +1,11 @@
 # Resulta_Python_challenge
 Python development challenge
+Before running the project you have to install the **requests** library using the following command
 
+**pip install requests**
 
 To run the program please enter the following command
+
 **python resulta.py**
 
 ![To run](https://github.com/onkarkhokhar/Resulta_Python_challenge/blob/master/Capture.PNG)
